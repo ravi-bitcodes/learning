@@ -1,0 +1,11 @@
+# IDE 
+.vs/                    # Visual studio files
+
+# Build outputs
+
+*/obj/                    # ignore object folder
+*/bin/                    # ignore bin folder                     
+*/Properties/             # ignore Properties folder
+/.vs/AzureLearnWebApp
+/AzureLearnWebApp/bin
+/AzureLearnWebApp/obj
